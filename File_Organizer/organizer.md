@@ -26,4 +26,6 @@ This Python script organizes files from the **Downloads** folder into categorize
 5. **Error handling**  
    If a file can’t be moved, the error is printed instead of crashing.
 
-## Example Output
+   
+## Purpose
+This script helps keep your **Downloads** folder clean by automatically sorting files into appropriate folders inside **Documents**.
